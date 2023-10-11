@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devpres101
+👋 Hi, I’m @Devin-Prescott
 - 👀 I’m interested in coding bootcamp
 - 🌱 I’m currently learning coding bootcamp
 - 💞️ I’m looking to collaborate on coding bootcamp
